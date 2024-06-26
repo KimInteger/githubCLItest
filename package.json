@@ -1,0 +1,11 @@
+{
+  "name": "githubclitest",
+  "version": "1.0.0",
+  "description": "\"CLI환경에서  issue생성및 PR요청해보기 \"",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "KimInteger",
+  "license": "MIT"
+}
